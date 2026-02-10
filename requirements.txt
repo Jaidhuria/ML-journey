@@ -7,4 +7,4 @@ scipy==1.12.0
 jupyter==1.0.0
 ipykernel==6.29.0
 pandas-profiling==3.6.6
-tqdm==4.66.1
+tqdm==4.67.3
