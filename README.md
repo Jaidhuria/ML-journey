@@ -140,8 +140,4 @@ This project is open-source under the **[MIT License](LICENSE)**.
 
 <div align="center">
 
-Made with 🧠 by **[Jai Dhuria](https://github.com/Jaidhuria)**
-
-*📌 Happy Learning and Experimenting!*
-
 </div>
